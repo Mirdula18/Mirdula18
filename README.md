@@ -87,13 +87,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mirdula18&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 **Tip:** The blog posts section will auto-update using GitHub Actions workflow if you set it up!
-
 ## 🌐 Let's Connect!
 
 <div align="center">
