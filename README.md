@@ -109,7 +109,6 @@
 - 🔐 Cybersecurity keeps me up at night (in a good way!)
 - 📊 Data visualization enthusiast
 - 🌱 Always learning something new
-- ☕ Coffee fuels my code
 
 ---
 
