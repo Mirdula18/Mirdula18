@@ -122,7 +122,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirdula18&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mirdula18&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
 ## 🌐 Let's Connect!
