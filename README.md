@@ -15,86 +15,104 @@
   
 </div>
 
-# ⚡ Mirdula R — Building at the Intersection of Web & Intelligence
+# 
 
-```yaml
-identity:
-  name: Mirdula R
-  base: India
-  domains:
-    - Web Development
-    - Data Science
-    - Artificial Intelligence
-    - Machine Learning
+```
+> Initializing profile...
 
-current_mode: 
-  - Designing intelligent web experiences
-  - Exploring data-driven decision systems
-  - Blending frontend creativity with backend intelligence
-
-learning_pipeline:
-  - Advanced ML & Deep Learning
-  - Data Analytics & Visualization
-  - Scalable Web Architectures
-  - Cloud for AI deployment
-
-interests:
-  - Turning raw data into meaningful insights
-  - Building smart, user-centric applications
-  - Writing clean, impactful technical content
-  - Solving real-world problems through code
-
+[STATUS]      ACTIVE
+[ROLE]        Web Developer | Data Scientist | AI/ML Engineer
+[LOCATION]    India
+[MODE]        Building | Learning | Experimenting
 ```
 
 ---
 
-## 🧠 What Drives Me
+##  CORE MODULES
 
-I don’t just build applications — I build **systems that think, adapt, and evolve**.
-From crafting responsive web interfaces to training intelligent models, my focus lies in creating solutions where **data meets usability**.
-
----
-
-## 🔍 Current Focus
-
-* 🌐 Engineering **modern web applications** with intelligent features
-* 📊 Applying **data science techniques** to uncover patterns and insights
-* 🤖 Developing **AI/ML models** for real-world problem solving
+```
+module.web_dev        → Designing scalable & responsive applications
+module.data_science   → Extracting insights from structured & unstructured data
+module.ai_ml          → Building intelligent and adaptive systems
+```
 
 ---
 
-## ✍️ Knowledge Sharing
+##  CURRENT EXECUTION
 
-I actively document my learning and insights through technical writing:
-🔗 Medium → https://medium.com/@mirdula1801
+```
+> Running processes...
 
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to working on:
-
-* AI-powered web apps
-* Data-driven platforms
-* Machine learning projects with real impact
+- Training machine learning models
+- Developing intelligent web interfaces
+- Exploring real-world data pipelines
+- Integrating AI into full-stack applications
+```
 
 ---
 
-## 📬 Connect With Me
+## 📚 LEARNING STREAM
 
-* Email → [mirdula1801@gmail.com](mailto:mirdula1801@gmail.com)
+```
+upgrade.queue = [
+  "Deep Learning Architectures",
+  "Cloud + AI Deployment",
+  "Advanced Data Visualization",
+  "Cybersecurity for Intelligent Systems"
+]
+```
 
 ---
 
-### ⚙️ Philosophy
+## ✍️ LOG OUTPUT (TECH WRITING)
 
-> "Code is not just written — it is designed to think, scale, and solve."
+```
+> Publishing insights...
+
+platform: Medium
+link: medium.com/@mirdula1801
+
+status: actively sharing knowledge on AI, ML & development
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+## COLLABORATION PROTOCOL
 
-### 💻 Languages
+```
+accepting_requests_for = [
+  "AI-powered Web Applications",
+  "Machine Learning Projects",
+  "Data-driven Systems",
+  "Open Source Contributions"
+]
+```
+
+---
+
+##  CONTACT CHANNEL
+
+```
+email: mirdula1801@gmail.com
+response_time: usually fast ⚡
+```
+
+---
+
+##  SYSTEM PHILOSOPHY
+
+```
+"Build systems that don’t just respond —
+ but learn, adapt, and evolve."
+```
+
+---
+
+> End of transmission...
+
+##  Tech Arsenal
+
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -104,7 +122,7 @@ I’m open to working on:
 
 ---
 
-### 🤖 AI/ML & Data Science
+###  AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -116,7 +134,7 @@ I’m open to working on:
 
 ---
 
-### 🌐 Web Development
+###  Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -129,7 +147,7 @@ I’m open to working on:
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -137,7 +155,7 @@ I’m open to working on:
 
 ---
 
-### ☁️ Deployment & Cloud
+###  Deployment & Cloud
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -145,7 +163,7 @@ I’m open to working on:
 
 ---
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -156,14 +174,14 @@ I’m open to working on:
 
 ---
 
-### 🎨 Design & Documentation
+###  Design & Documentation
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <br><br>
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 
 
@@ -172,7 +190,7 @@ I’m open to working on:
 </div>
 
 
-## 🌐 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   
@@ -185,14 +203,7 @@ I’m open to working on:
   
 </div>
 
-## 🎯 Fun Facts
 
-- 🎨 I love creating intuitive user interfaces
-- 🔐 Cybersecurity keeps me up at night (in a good way!)
-- 📊 Data visualization enthusiast
-- 🌱 Always learning something new
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
