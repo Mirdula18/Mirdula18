@@ -15,29 +15,82 @@
   
 </div>
 
+# ⚡ Mirdula R — Building at the Intersection of Web & Intelligence
+
+```yaml
+identity:
+  name: Mirdula R
+  base: India
+  domains:
+    - Web Development
+    - Data Science
+    - Artificial Intelligence
+    - Machine Learning
+
+current_mode: 
+  - Designing intelligent web experiences
+  - Exploring data-driven decision systems
+  - Blending frontend creativity with backend intelligence
+
+learning_pipeline:
+  - Advanced ML & Deep Learning
+  - Data Analytics & Visualization
+  - Scalable Web Architectures
+  - Cloud for AI deployment
+
+interests:
+  - Turning raw data into meaningful insights
+  - Building smart, user-centric applications
+  - Writing clean, impactful technical content
+  - Solving real-world problems through code
+
+```
+
 ---
 
-## 🚀 About Me
+## 🧠 What Drives Me
 
-```
-        Name = Mirdula R
-        Location = India
-        Current focus = Machine Learning, Cybersecurity, Full Stack Development
-        Learning = Deep Learning, Ethical Hacking, Cloud Computing
-        Hobbies = Technical Writing, Open Source, Problem Solving
-        
-        Thanks for dropping by! Let's connect and build something amazing together!
-        
+I don’t just build applications — I build **systems that think, adapt, and evolve**.
+From crafting responsive web interfaces to training intelligent models, my focus lies in creating solutions where **data meets usability**.
 
-```
+---
 
-## 💼 What I'm Up To
+## 🔍 Current Focus
 
-- 🔬 **Currently Learning:** Advanced Machine Learning algorithms and cybersecurity frameworks
-- ✍️ **Technical Writer:** Sharing knowledge on [Medium](https://medium.com/@mirdula1801)
-- 🤝 **Open to:** Collaborations on AI/ML and cybersecurity projects
-- 💬 **Ask me about:** Python, Machine Learning, Web Development, or anything tech!
-- 📧 **Reach me:** [mirdula1801@gmail.com](mailto:mirdula1801@gmail.com)
+* 🌐 Engineering **modern web applications** with intelligent features
+* 📊 Applying **data science techniques** to uncover patterns and insights
+* 🤖 Developing **AI/ML models** for real-world problem solving
+
+---
+
+## ✍️ Knowledge Sharing
+
+I actively document my learning and insights through technical writing:
+🔗 Medium → https://medium.com/@mirdula1801
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to working on:
+
+* AI-powered web apps
+* Data-driven platforms
+* Machine learning projects with real impact
+
+---
+
+## 📬 Connect With Me
+
+* Email → [mirdula1801@gmail.com](mailto:mirdula1801@gmail.com)
+
+---
+
+### ⚙️ Philosophy
+
+> "Code is not just written — it is designed to think, scale, and solve."
+
+---
 
 ## 🛠️ Tech Arsenal
 
