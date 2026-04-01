@@ -51,7 +51,7 @@ module.ai_ml          → Building intelligent and adaptive systems
 
 ---
 
-## 📚 LEARNING STREAM
+##  LEARNING STREAM
 
 ```
 upgrade.queue = [
@@ -64,7 +64,7 @@ upgrade.queue = [
 
 ---
 
-## ✍️ LOG OUTPUT (TECH WRITING)
+##  LOG OUTPUT (TECH WRITING)
 
 ```
 > Publishing insights...
