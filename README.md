@@ -24,84 +24,47 @@
 [ROLE]        Web Developer | Data Scientist | AI/ML Engineer
 [LOCATION]    India
 [MODE]        Building | Learning | Experimenting
-```
 
----
 
-##  CORE MODULES
-
-```
 module.web_dev        → Designing scalable & responsive applications
 module.data_science   → Extracting insights from structured & unstructured data
 module.ai_ml          → Building intelligent and adaptive systems
-```
 
----
-
-##  CURRENT EXECUTION
-
-```
 > Running processes...
 
 - Training machine learning models
 - Developing intelligent web interfaces
 - Exploring real-world data pipelines
 - Integrating AI into full-stack applications
-```
 
----
-
-##  LEARNING STREAM
-
-```
 upgrade.queue = [
   "Deep Learning Architectures",
   "Cloud + AI Deployment",
   "Advanced Data Visualization",
   "Cybersecurity for Intelligent Systems"
 ]
-```
 
----
-
-##  LOG OUTPUT (TECH WRITING)
-
-```
 > Publishing insights...
 
 platform: Medium
 link: medium.com/@mirdula1801
 
 status: actively sharing knowledge on AI, ML & development
-```
 
----
-
-## COLLABORATION PROTOCOL
-
-```
 accepting_requests_for = [
   "AI-powered Web Applications",
   "Machine Learning Projects",
   "Data-driven Systems",
   "Open Source Contributions"
 ]
-```
 
----
-
-##  CONTACT CHANNEL
-
-```
 email: mirdula1801@gmail.com
 response_time: usually fast ⚡
-```
+
 
 ---
 
-##  SYSTEM PHILOSOPHY
 
-```
 "Build systems that don’t just respond —
  but learn, adapt, and evolve."
 ```
