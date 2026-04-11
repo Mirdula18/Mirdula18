@@ -61,11 +61,7 @@ accepting_requests_for = [
 ]
 
 email: mirdula1801@gmail.com
-response_time: usually fast ⚡
-
-
----
-
+response_time: usually fast 
 
 "Build systems that don’t just respond —
  but learn, adapt, and evolve."
@@ -173,10 +169,10 @@ response_time: usually fast ⚡
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   
-  ### 💝 Thanks for visiting! 
+  ### Thanks for visiting! 
   
   ![Snake animation](https://github.com/mirdula18/mirdula18/blob/output/github-contribution-grid-snake.svg)
 
   
-  **Let's build the future together, one commit at a time! 🚀**
+  **Let's build the future together, one commit at a time!**
 </div>
