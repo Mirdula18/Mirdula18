@@ -8,7 +8,6 @@
 </div>
 
 <div align="center">
-
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mirdula18&label=Profile%20views&color=6366F1&style=for-the-badge)
   [![GitHub followers](https://img.shields.io/github/followers/mirdula18?logo=github&style=for-the-badge&color=6366F1)](https://github.com/mirdula18)
