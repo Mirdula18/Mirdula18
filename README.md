@@ -14,9 +14,6 @@
   
 </div>
 
-# 
-
-
 ```
 > Initializing profile...
 
