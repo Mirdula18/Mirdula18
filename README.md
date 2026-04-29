@@ -37,8 +37,7 @@ module.ai_ml          → Building intelligent and adaptive systems
 upgrade.queue = [
   "Deep Learning Architectures",
   "Cloud + AI Deployment",
-  "Advanced Data Visualization",
-  "Cybersecurity for Intelligent Systems"
+  "Advanced Data Visualization"
 ]
 
 > Publishing insights...
@@ -46,7 +45,7 @@ upgrade.queue = [
 platform: Medium
 link: medium.com/@mirdula1801
 
-status: actively sharing knowledge on AI, ML & development
+status: actively sharing knowledge on AI/ML & development
 
 accepting_requests_for = [
   "AI-powered Web Applications",
