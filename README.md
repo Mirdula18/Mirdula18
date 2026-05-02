@@ -5,8 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
-
-
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/mirdula18?logo=github&style=for-the-badge&color=6366F1)](https://github.com/mirdula18)
