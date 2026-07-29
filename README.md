@@ -16,7 +16,7 @@
 > Initializing profile...
 
 [STATUS]      ACTIVE
-[ROLE]        Web Developer | Data Scientist | AI/ML Engineer
+[ROLE]        AI/ML Engineer | Web Developer 
 [LOCATION]    India
 [MODE]        Building | Learning | Experimenting
 
